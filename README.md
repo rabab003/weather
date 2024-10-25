@@ -1,6 +1,6 @@
 # Weather App
 
-A simple and responsive weather app built with **React.js** and styled using **Tailwind CSS**.
+A simple and responsive weather app built with **React.js** and styled using **CSS**.
 
 ## Features
 
